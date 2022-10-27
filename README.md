@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabyugarte
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Pyhton and React
+- 🌱 I’m currently learning Pyhton Data Science
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me: gabyugarte.github.io
 
