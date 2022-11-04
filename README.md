@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @gabyugarte
-- 👀 I’m a software development student interested in Data Science and Artificial Intelligence
+- 👀 I’m a Software Engineer student interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Pyhton and Data Science
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me: gabyugarte.github.io
