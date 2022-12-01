@@ -2,7 +2,7 @@
 - 👀 I’m a Software Engineer student interested in Data Science and Artificial Intelligence
 - 🌱 I’m deeply learning Pyhton and Data Science
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me: gabyugarte.github.io
+- 📫 How to reach me: <a href="gabyugarte.github.io"> My Portfolio</a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gabyugarte)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabriela-ugarte-maco/)
