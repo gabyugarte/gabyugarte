@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @gabyugarte
-- 👀 I’m a Software Engineer student, Python developer and interested in Data and Artificial Intelligence
+- 👀 I’m a Software Engineer student, full stack developer and Python developer. 
 - 🌱 I’m deep specializing in programming with Python
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me: <a href="gabyugarte.github.io"> My Portfolio</a> and visit my social networks 👇
