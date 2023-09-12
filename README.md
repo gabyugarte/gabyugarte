@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @gabyugarte
-- 👀 I’m a Software Engineer student, full stack developer and Python developer. 
+- 👀 I’m a Software Engineer student, full stack developer, and Python developer. 
 - 🌱 I’m deep specializing in programming with Python
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me: <a href="gabyugarte.github.io"> My Portfolio</a> and visit my social networks 👇
@@ -9,8 +9,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/gaby.ugarte.71/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gabyugate/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GabyUgarte15)
-
-![Profile views](https://gpvc.gabyugarte)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabyugarte)](https://github.com/anuraghazra/github-readme-stats)
 
