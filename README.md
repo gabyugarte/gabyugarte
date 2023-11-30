@@ -2,8 +2,8 @@
 - 👀 I’m a Software Engineer student, full stack developer, and Python developer. 
 - 🌱 I’m deep specializing in programming with Python and Data Analytics
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me: 🌐<a href:"https://gabyugarte.github.io"> Portfolio </a> and visit my social networks 👇
--  [https://gabyugarte.github.io/](https://gabyugarte.github.io/)
+- 📫 How to reach me: 🌐[https://gabyugarte.github.io/](https://gabyugarte.github.io/) and visit my social networks 👇
+-  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gabyugarte)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabriela-ugarte-maco/)
